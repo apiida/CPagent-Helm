@@ -10,4 +10,4 @@ data:
   configFile: #(Insert base64 encoded version of config file here)
 env:
   backendUrl: wss://(your-tenant).backend.apiida.io
-  image: apiida/controlplane-agent:2023.6.1 #Find the latest here: https://hub.docker.com/r/apiida/controlplane-agent/tags
+  image: apiida/controlplane-agent:latest #Find the latest here: https://hub.docker.com/r/apiida/controlplane-agent/tags
